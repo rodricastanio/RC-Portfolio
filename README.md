@@ -1,4 +1,4 @@
-# RC-Portfolio
+# Rodrigo Castaño-Portfolio
 
 Portfolio personal construido con HTML, CSS y JavaScript.
 
